@@ -13,7 +13,7 @@ body {
 }
 
 .bg-img {
-  background: url(./img/bg-image.png) no-repeat;
+  background: url(../img/bg-image.png) no-repeat;
   background-size: cover;
   height: 60rem;
 }
@@ -67,7 +67,7 @@ body {
 
 @media (max-width: 991.3px) {
   .bg-img {
-    background: url(./img/bg-image.png) no-repeat;
+    background: url(../img/bg-image.png) no-repeat;
     background-size: cover;
     height: 65rem;
   }
@@ -93,7 +93,7 @@ body {
 
 @media (max-width: 767.5px) {
   .bg-img {
-    background: url(./img/bg-image.png) no-repeat;
+    background: url(../img/bg-image.png) no-repeat;
     background-size: cover;
     height: 65rem;
   }
@@ -456,7 +456,7 @@ body {
 }
 
 .kamchatka {
-  background: url(./img/bg-image2-with-text.png);
+  background: url(../img/bg-image2-with-text.png);
   height: 51rem;
   background-repeat: no-repeat;
   background-size: cover;
@@ -496,7 +496,7 @@ body {
 .pngwing {
   margin-right: -0.7rem;
   margin-top: 12rem;
-  background: url(./img/pngwing.png) no-repeat;
+  background: url(../img/pngwing.png) no-repeat;
   height: 12rem;
   width: 30rem;
   margin-left: auto;
@@ -518,7 +518,7 @@ body {
 
 @media (max-width: 991.3px) {
   .kamchatka {
-    background: url(./img/bg-image2-without-text.png);
+    background: url(../img/bg-image2-without-text.png);
     height: 51rem;
     background-repeat: no-repeat;
     background-size: cover;
@@ -540,7 +540,7 @@ body {
 
 @media (max-width: 767.5px) {
   .kamchatka {
-    background: url(./img/bg-image2-without-text.png);
+    background: url(../img/bg-image2-without-text.png);
     height: 53rem;
     background-repeat: no-repeat;
     background-size: cover;
@@ -579,7 +579,7 @@ body {
     margin-right: -0.7rem;
     margin-top: 2rem;
     max-width: 16rem;
-    background-image: url(./img/pngwing-sm.png);
+    background-image: url(../img/pngwing-sm.png);
     z-index: 2;
     height: 12rem;
     margin-left: auto;
@@ -750,7 +750,7 @@ body {
 }
 
 .day1 {
-  background-image: url(./img/day1-bg.png);
+  background-image: url(../img/day1-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position-y: -2rem;
@@ -808,7 +808,7 @@ body {
 
 @media (max-width: 1094px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -1rem;
@@ -846,7 +846,7 @@ body {
 
 @media (max-width: 993px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -1rem;
@@ -897,7 +897,7 @@ body {
 
 @media (max-width: 767.5px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -1rem;
@@ -936,7 +936,7 @@ body {
 
 @media (max-width: 499.5px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -975,7 +975,7 @@ body {
 
 @media (max-width: 388px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -986,7 +986,7 @@ body {
 
 @media (max-width: 360px) {
   .day1 {
-    background-image: url(./img/day1-bg.png);
+    background-image: url(../img/day1-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -996,7 +996,7 @@ body {
 }
 
 .day2 {
-  background-image: url(./img/day2-bg.png);
+  background-image: url(../img/day2-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
@@ -1056,7 +1056,7 @@ body {
 
 @media (max-width: 1200px) {
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
@@ -1123,7 +1123,7 @@ body {
 
 @media (max-width: 1094px) {
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: 85rem;
     background-repeat: no-repeat;
     background-position: right;
@@ -1177,7 +1177,7 @@ body {
 
 @media (max-width: 993px) {
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: 70rem;
     background-repeat: no-repeat;
     background-position: right;
@@ -1298,7 +1298,7 @@ body {
   }
 
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: 50rem;
     background-repeat: no-repeat;
     background-position: right;
@@ -1341,7 +1341,7 @@ body {
   }
 
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: 50rem;
     background-repeat: no-repeat;
     background-position: right;
@@ -1382,7 +1382,7 @@ body {
 
 @media (max-width: 358px) {
   .day2 {
-    background-image: url(./img/day2-bg.png);
+    background-image: url(../img/day2-bg.png);
     background-size: 50rem;
     background-repeat: no-repeat;
     background-position: right;
@@ -1410,7 +1410,7 @@ body {
 }
 
 .day3 {
-  background-image: url(./img/day3-bg.png);
+  background-image: url(../img/day3-bg.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom
@@ -1530,7 +1530,7 @@ body {
 }
 
 .day4-5-6 {
-  background-image: url(./img/day4-5-6bg1.png);
+  background-image: url(../img/day4-5-6bg1.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1719,7 +1719,7 @@ body {
 }
 
 .day7 {
-  background-image: url(./img/day7-bg.png);
+  background-image: url(../img/day7-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
@@ -2071,7 +2071,7 @@ body {
 }
 
 .day8 {
-  background-image: url(./img/day8-bg.png);
+  background-image: url(../img/day8-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -2425,7 +2425,7 @@ ul li {
 }
 
 .what-u-need {
-  background-image: url(./img/what-u-need.png);
+  background-image: url(../img/what-u-need.png);
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2509,7 +2509,7 @@ ul li {
 .dates {
   appearance: none;
   overflow: hidden;
-  background: url(./img/calendar.svg) no-repeat right;
+  background: url(../img/calendar.svg) no-repeat right;
 }
 
 .dates_input-field {
@@ -2629,7 +2629,7 @@ ul li {
 
 @media (max-width: 1379.9px) {
   .what-u-need {
-    background-image: url(./img/what-u-need.png);
+    background-image: url(../img/what-u-need.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position-y: 23rem;
