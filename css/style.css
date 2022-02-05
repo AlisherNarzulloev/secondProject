@@ -2305,7 +2305,7 @@ body {
 
 ul {
   padding: 1rem !important;
-  list-style-image: url(./dot.svg);
+  list-style-image: url(./img/dot.svg);
 }
 
 ul li {
